@@ -1,6 +1,6 @@
 <?php
 /*
- * Plugin Name: ThemeDiv Facebook Like Box 
+ * Plugin Name: ThemeDiv Social Widget 
  * Version: 1.0
  * Description: Facebook Like Box Widget And Shortcode
  * Author: Faizan Khan
